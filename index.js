@@ -1,2 +1,3 @@
-console.log("Treinando commits no GitHub!")
+console.log("Alteração feita na branch teste!")
+
 
