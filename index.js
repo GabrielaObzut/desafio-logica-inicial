@@ -1,1 +1,2 @@
-console.log("Olá, mundão")
+console.log("Treinando commits no GitHub!")
+
